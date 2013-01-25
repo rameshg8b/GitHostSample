@@ -15,7 +15,8 @@ public class MainActivity extends Activity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-    	// Test comment 3
+    	// Test comment 2
+
         getMenuInflater().inflate(R.menu.activity_main, menu);
         return true;
     }
