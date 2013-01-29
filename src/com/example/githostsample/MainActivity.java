@@ -24,4 +24,9 @@ public class MainActivity extends Activity {
     int x;
     }
     
+    public void add()
+    {
+    int y;
+    }
+    
 }
